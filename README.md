@@ -1,8 +1,7 @@
 # Extreme Startup VM
 
 1. Add the box
-
-	$ vagrant box add extreme extreme-startup-vm.box
+```$ vagrant box add extreme extreme-startup-vm.box```
 
 2. Create a directory :
 
